@@ -114,7 +114,7 @@ class Telegram():
             for group in groups:
                 last_message = (await self.client.get_messages(group, limit=1))[0]
                 if last_message.from_id.user_id == self.user.id:
-                    logging.info("Skipped \x1b[38;5;147m%s\x1b[0m as our message as the latest." % (group.title))
+                    logging.info("Skipped \x1b[38;5;147m%s\x1b[0m as our message is the latest." % (group.title))
                     continue
                 
                 if await self.clean_send(group):
