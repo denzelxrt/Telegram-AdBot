@@ -42,7 +42,7 @@
 4) After that watch the magic unfold!
 
 ### Contact
-View my contact information on my [telegram](https://t.me/dropoutuwu/)
+View my contact information on my [telegram](https://t.me/modules/)
 
 > **Warning**
 > I'm not held responsible for any actions performed while using this program.
