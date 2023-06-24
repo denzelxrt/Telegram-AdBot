@@ -63,21 +63,15 @@ class Telegram():
 
 	async def get_groups(self):
 		reply = []
-		
-		results = await self.client(functions.messages.GetDialogsRequest(
-			offset_date=None,
-			offset_id=0,
-			offset_peer=types.InputPeerEmpty(),
-			limit=200,
-			hash=0
-		))
-		
-		for dialog in results.chats:
-			if type(dialog) == types.Channel:
-				dialog: types.Channel = dialog
-				if dialog.megagroup:
-					reply.append(dialog)
-							
+
+		results = await self.client.get_dialogs(
+			limit=None
+		)
+
+		for dialog in results:
+			if dialog.is_group and dialog.is_channel:
+				reply.append(dialog)
+
 		return reply
 
 	async def get_all_chats(self):
