@@ -8,6 +8,10 @@
 </p>
   
 ---------------------------------------
+
+Discussion channel: https://t.me/tg_enthusiasts
+
+---------------------------------------
   
 <br/>
 <div align="center">
