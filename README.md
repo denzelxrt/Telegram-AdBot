@@ -46,7 +46,7 @@ Discussion channel: https://t.me/tg_enthusiasts
 4) After that watch the magic unfold!
 
 ### Contact
-View my contact information on my [telegram](https://t.me/modules/)
+View my contact information on my [telegram](https://t.me/explosives/)
 
 > **Warning**
 > I'm not held responsible for any actions performed while using this program.
