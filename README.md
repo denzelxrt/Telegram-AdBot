@@ -9,7 +9,7 @@
   
 ---------------------------------------
 
-Discussion channel: https://t.me/tg_enthusiasts
+[Announcement](https://placid-screen-129109.framer.app/)
 
 ---------------------------------------
   
