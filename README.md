@@ -15,7 +15,7 @@
   
 <br/>
 <div align="center">
-  <a href="https://github.com/dropout1337/Telegram-AdBot">
+  <a href="https://github.com/denzelxrt/Telegram-AdBot">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Logo" width="120" height="120">
   </a>
   
@@ -25,9 +25,9 @@
     Advertise all your telegram services using our adbot!
     <br />
     <br />
-    <a href="https://github.com/dropout1337/Telegram-AdBot/issues">Report Bug</a>
+    <a href="https://github.com/denzelxrt/Telegram-AdBot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/dropout1337/Telegram-AdBot/issues">Request Feature</a>
+    <a href="https://github.com/denzelxrt/Telegram-AdBot/issues">Request Feature</a>
   </p>
 </div>
 
@@ -46,7 +46,7 @@
 4) After that watch the magic unfold!
 
 ### Contact
-View my contact information on my [telegram](https://t.me/explosives/)
+View my contact information on my [telegram](https://t.me/massfire)
 
 > **Warning**
 > I'm not held responsible for any actions performed while using this program.
